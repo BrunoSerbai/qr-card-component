@@ -1,4 +1,3 @@
-import React from 'react'
 function App() {
   return (
     <div className="qrCard bg-white p-5 rounded-3xl max-w-[21rem] font-[outfit] text-center m-3 ">
